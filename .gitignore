@@ -1,18 +1,34 @@
-# ===== Unity =====
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
-[Mm]emoryCaptures/
-Assets/AssetStoreTools*
+# == Unity (oficial, limpio) ==
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 
-# Cache y artefactos
-*.pidb
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# (Descomenta si quieres ignorar Asset Store Tools)
+# /[Aa]ssets/AssetStoreTools*
+
+# JetBrains Rider plugin autogenerado
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# IDE / build systems
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+
+# Archivos de solución y proyectos autogenerados por Unity/IDE
+*.csproj
+*.unityproj
+*.sln
 *.suo
+*.tmp
 *.user
 *.userprefs
-*.unityproj
+*.pidb
 *.booproj
 *.svd
 *.pdb
@@ -20,68 +36,37 @@ Assets/AssetStoreTools*
 *.opendb
 *.VC.db
 
-# Backups / Crash
-*.bak
-*.orig
-*.old
+# Metas generadas por Unity
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Reporte de crash de Unity
 sysinfo.txt
 
-# Paquetes locales y cache
-/[Pp]ackages/manifest-temp.json
-/[Pp]ackageCache/
-/[Pp]ackages/packages-lock.json
-
-# Builds móviles
+# Builds y directorios de build
+/[Bb]uild/
+/[Bb]uilds/
 *.apk
 *.aab
-*.ipa
-*.xcodeproj/*
-*.xcworkspace/*
-Pods/
+*.app
+*.unitypackage
 
-# ===== IDEs =====
-# Visual Studio / Rider
-.vs/
+# Crashlytics
+crashlytics-build.properties
+
+# Addressables (binarios empaquetados)
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Android StreamingAssets temporales
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Rider / IntelliJ
 .idea/
 *.sln.iml
 
-# VS Code (opcional: permite settings de equipo)
-.vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
-!.vscode/tasks.json
-!.vscode/launch.json
-
-# ===== SO =====
+# SO
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# ===== Node.js (si usas tooling/chat IA con JS) =====
-node_modules/
-npm-debug.log*
-yarn-error.log*
-.pnpm-store/
-# Si usas lockfile, considera COMMITTEARLO: package-lock.json / yarn.lock / pnpm-lock.yaml
-
-# ===== Python (por si creas scripts auxiliares) =====
-__pycache__/
-*.py[cod]
-*.pyo
-.venv/
-venv/
-.env
-.env.*
-
-# ===== Otros binarios/pesados =====
-*.unitypackage
-*.zip
-*.7z
-*.rar
-*.tar
-*.gz
-
-# ===== NO ignores de Unity importantes =====
-# ¡Asegúrate de COMMITTEAR estos dirs/archivos!
-# Assets/, ProjectSettings/, Packages/ y TODOS los *.meta
-# (No ignores necesarios: se incluyen por defecto)
