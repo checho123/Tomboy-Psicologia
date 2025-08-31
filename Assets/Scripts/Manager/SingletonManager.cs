@@ -1,18 +1,28 @@
 using UnityEngine;
 
-public class SingletonManager<T> : MonoBehaviour
+public class SingletonManager<T> : MonoBehaviour where T : MonoBehaviour
 {
-    public static T instance;
+    // Propiedad estática pública (PascalCase)
+    public static T Instance { get; private set; }
+
+    // Único control para DontDestroyOnLoad (PascalCase por ser público y estático)
+    public static bool EnablePersistence = true;
 
     private void Awake()
     {
-        if (instance == null)
+        if (Instance == null)
         {
-            instance = (T)(object)this;
-            DontDestroyOnLoad(gameObject);
+            Instance = this as T;
+
+            if (EnablePersistence)
+            {
+                DontDestroyOnLoad(gameObject);
+            }
             return;
         }
 
+        // Ya existe uno: destruye el duplicado
         Destroy(gameObject);
     }
+
 }
