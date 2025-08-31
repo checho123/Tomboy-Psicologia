@@ -1,0 +1,87 @@
+# ===== Unity =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Assets/AssetStoreTools*
+
+# Cache y artefactos
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Backups / Crash
+*.bak
+*.orig
+*.old
+sysinfo.txt
+
+# Paquetes locales y cache
+/[Pp]ackages/manifest-temp.json
+/[Pp]ackageCache/
+/[Pp]ackages/packages-lock.json
+
+# Builds móviles
+*.apk
+*.aab
+*.ipa
+*.xcodeproj/*
+*.xcworkspace/*
+Pods/
+
+# ===== IDEs =====
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln.iml
+
+# VS Code (opcional: permite settings de equipo)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# ===== SO =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Node.js (si usas tooling/chat IA con JS) =====
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+# Si usas lockfile, considera COMMITTEARLO: package-lock.json / yarn.lock / pnpm-lock.yaml
+
+# ===== Python (por si creas scripts auxiliares) =====
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+
+# ===== Otros binarios/pesados =====
+*.unitypackage
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# ===== NO ignores de Unity importantes =====
+# ¡Asegúrate de COMMITTEAR estos dirs/archivos!
+# Assets/, ProjectSettings/, Packages/ y TODOS los *.meta
+# (No ignores necesarios: se incluyen por defecto)
