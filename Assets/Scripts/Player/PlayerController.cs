@@ -6,10 +6,6 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D _rigidbody2D;
     private Animator _animator;
 
-    //// Hashes de Animator (no quedan variables editables en el Inspector)
-    //
-    //private static readonly int AnimIsGrounded = Animator.StringToHash("IsGrounded");
-
     [Header("Move Settings")]
     [SerializeField] private float moveSpeed = 6f;
     [SerializeField] private bool flipOnMove = true;
@@ -37,10 +33,8 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        // 1) Leer input (en Update)
-        _inputX = Input.GetAxisRaw("Horizontal");  // -1, 0, 1
+        _inputX = Input.GetAxisRaw("Horizontal");
 
-        // Registrar intento de salto (se consume en FixedUpdate)
         if (Input.GetButtonDown("Jump"))
         {
             _jumpPressed = true;
@@ -99,13 +93,16 @@ public class PlayerController : MonoBehaviour
             _jumpPressed = false; // Consumir el intento de salto
         }
 
-        // 5) Animación: Speed (0..1) e IsGrounded
+        AnimationPlayer();
+    }
+
+    private void AnimationPlayer()
+    {
         if (_animator != null)
         {
             float speed01 = Mathf.Clamp01(Mathf.Abs(_rigidbody2D.linearVelocity.x) / Mathf.Max(0.0001f, moveSpeed));
             _animator.SetFloat("IsRuning", speed01);
         }
-
     }
 
     private void OnDrawGizmosSelected()
