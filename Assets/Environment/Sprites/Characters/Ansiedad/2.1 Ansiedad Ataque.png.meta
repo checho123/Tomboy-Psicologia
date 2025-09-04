@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 1de17a6854c18e74c8947ec1dd7057c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1007065052042338333
+    second: 2.1 Ansiedad Ataque_0
+  - first:
+      213: -7751037513196677270
+    second: 2.1 Ansiedad Ataque_1
+  - first:
+      213: 5310880000211098303
+    second: 2.1 Ansiedad Ataque_2
+  - first:
+      213: -1722118947364441477
+    second: 2.1 Ansiedad Ataque_3
+  - first:
+      213: 401976983785447325
+    second: 2.1 Ansiedad Ataque_4
+  - first:
+      213: -5591923750818709646
+    second: 2.1 Ansiedad Ataque_5
+  - first:
+      213: 8409561375224565087
+    second: 2.1 Ansiedad Ataque_6
+  - first:
+      213: 2626721686140714218
+    second: 2.1 Ansiedad Ataque_7
+  - first:
+      213: -317583779398972967
+    second: 2.1 Ansiedad Ataque_8
+  - first:
+      213: -6080225917114522552
+    second: 2.1 Ansiedad Ataque_9
+  - first:
+      213: -3673220010383956835
+    second: 2.1 Ansiedad Ataque_10
+  - first:
+      213: 4623752615484862266
+    second: 2.1 Ansiedad Ataque_11
+  - first:
+      213: -1553397600134433173
+    second: 2.1 Ansiedad Ataque_12
+  - first:
+      213: -1049671139061720501
+    second: 2.1 Ansiedad Ataque_13
+  - first:
+      213: 1871700399091812027
+    second: 2.1 Ansiedad Ataque_14
+  - first:
+      213: 4130397353916509943
+    second: 2.1 Ansiedad Ataque_15
+  - first:
+      213: -1949777908339613912
+    second: 2.1 Ansiedad Ataque_16
+  - first:
+      213: -7442530529268358751
+    second: 2.1 Ansiedad Ataque_17
+  - first:
+      213: -4775170684661297489
+    second: 2.1 Ansiedad Ataque_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 189
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10a1b44450d9fd00800000000000000
+      internalID: 1007065052042338333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5
+        width: 184
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a675f21d278ce6490800000000000000
+      internalID: -7751037513196677270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 5
+        width: 140
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba1f41d83904b940800000000000000
+      internalID: 5310880000211098303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_3
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 5
+        width: 154
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b727f5901fdc918e0800000000000000
+      internalID: -1722118947364441477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_4
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 5
+        width: 135
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f1a6edfeb149500800000000000000
+      internalID: 401976983785447325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 5
+        width: 142
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f7165d9fe7562b0800000000000000
+      internalID: -5591923750818709646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_6
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d0b17d383c4b470800000000000000
+      internalID: 8409561375224565087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec7b32e47df37420800000000000000
+      internalID: 2626721686140714218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_8
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d98f7a3c37b79bf0800000000000000
+      internalID: -317583779398972967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_9
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 5
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844e3482eb2be9ba0800000000000000
+      internalID: -6080225917114522552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_10
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 75
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d942533bcd9160dc0800000000000000
+      internalID: -3673220010383956835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_11
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f224f818eda2040800000000000000
+      internalID: 4623752615484862266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_12
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66fa09ec19317ae0800000000000000
+      internalID: -1553397600134433173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_13
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 53
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a1f3119a1de61f0800000000000000
+      internalID: -1049671139061720501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_14
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 5
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb603d5a89d99f910800000000000000
+      internalID: 1871700399091812027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_15
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe2865728e125930800000000000000
+      internalID: 4130397353916509943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_16
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f538e925ff0f4e0800000000000000
+      internalID: -1949777908339613912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_17
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 53
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1a5f47ae1d6b890800000000000000
+      internalID: -7442530529268358751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.1 Ansiedad Ataque_18
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 5
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae87eeef8f2bbdb0800000000000000
+      internalID: -4775170684661297489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2.1 Ansiedad Ataque_0: 1007065052042338333
+      2.1 Ansiedad Ataque_1: -7751037513196677270
+      2.1 Ansiedad Ataque_10: -3673220010383956835
+      2.1 Ansiedad Ataque_11: 4623752615484862266
+      2.1 Ansiedad Ataque_12: -1553397600134433173
+      2.1 Ansiedad Ataque_13: -1049671139061720501
+      2.1 Ansiedad Ataque_14: 1871700399091812027
+      2.1 Ansiedad Ataque_15: 4130397353916509943
+      2.1 Ansiedad Ataque_16: -1949777908339613912
+      2.1 Ansiedad Ataque_17: -7442530529268358751
+      2.1 Ansiedad Ataque_18: -4775170684661297489
+      2.1 Ansiedad Ataque_2: 5310880000211098303
+      2.1 Ansiedad Ataque_3: -1722118947364441477
+      2.1 Ansiedad Ataque_4: 401976983785447325
+      2.1 Ansiedad Ataque_5: -5591923750818709646
+      2.1 Ansiedad Ataque_6: 8409561375224565087
+      2.1 Ansiedad Ataque_7: 2626721686140714218
+      2.1 Ansiedad Ataque_8: -317583779398972967
+      2.1 Ansiedad Ataque_9: -6080225917114522552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

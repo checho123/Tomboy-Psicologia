@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: c1671992c5c8c2042af1a46cb9e1f473
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4873205865126640698
+    second: 3. Soledad ataque_0
+  - first:
+      213: -6030778609380767004
+    second: 3. Soledad ataque_1
+  - first:
+      213: -3028487009265239456
+    second: 3. Soledad ataque_2
+  - first:
+      213: -8460544598392368386
+    second: 3. Soledad ataque_3
+  - first:
+      213: 3367351076933964883
+    second: 3. Soledad ataque_4
+  - first:
+      213: 1870757694025524391
+    second: 3. Soledad ataque_5
+  - first:
+      213: -8210628057911112106
+    second: 3. Soledad ataque_6
+  - first:
+      213: -4500030706512965694
+    second: 3. Soledad ataque_7
+  - first:
+      213: 8464323834527562689
+    second: 3. Soledad ataque_8
+  - first:
+      213: -3115726113567143267
+    second: 3. Soledad ataque_9
+  - first:
+      213: 1680602827821525270
+    second: 3. Soledad ataque_10
+  - first:
+      213: -7436747885991227209
+    second: 3. Soledad ataque_11
+  - first:
+      213: -6693746394358480262
+    second: 3. Soledad ataque_12
+  - first:
+      213: 5647198347776138556
+    second: 3. Soledad ataque_13
+  - first:
+      213: -6627405661419825992
+    second: 3. Soledad ataque_14
+  - first:
+      213: -5150910220520250610
+    second: 3. Soledad ataque_15
+  - first:
+      213: -8372574387790556644
+    second: 3. Soledad ataque_16
+  - first:
+      213: -5051027012925740018
+    second: 3. Soledad ataque_17
+  - first:
+      213: -8098910082056507035
+    second: 3. Soledad ataque_18
+  - first:
+      213: 2860065014853218579
+    second: 3. Soledad ataque_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3. Soledad ataque_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 6
+        width: 19
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c393c3aea11a340800000000000000
+      internalID: 4873205865126640698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac5d4aece5e4ca0800000000000000
+      internalID: -6030778609380767004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a3cd55c17a8f5d0800000000000000
+      internalID: -3028487009265239456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2197e738b169a80800000000000000
+      internalID: -8460544598392368386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 135
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3549da6a6fb3bbe20800000000000000
+      internalID: 3367351076933964883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 78
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46835063446f910800000000000000
+      internalID: 1870757694025524391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4a59784dfd0e80800000000000000
+      internalID: -8210628057911112106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfc1f32aedac81c0800000000000000
+      internalID: -4500030706512965694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_8
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 18
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb33ec7ea1577570800000000000000
+      internalID: 8464323834527562689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 23
+        width: 99
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a0c678b97b2c4d0800000000000000
+      internalID: -3115726113567143267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_10
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 21
+        width: 183
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619a1d02e53b25710800000000000000
+      internalID: 1680602827821525270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 6
+        width: 21
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b01b53033d5bc890800000000000000
+      internalID: -7436747885991227209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6
+        width: 20
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7206bb8e190b13a0800000000000000
+      internalID: -6693746394358480262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 20
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d9e572af0ee5e40800000000000000
+      internalID: 5647198347776138556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 30
+        width: 11
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b498a81aa9b604a0800000000000000
+      internalID: -6627405661419825992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 38
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0326f3f17a4488b0800000000000000
+      internalID: -5150910220520250610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_16
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12d53044f3aecb80800000000000000
+      internalID: -8372574387790556644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_17
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ca8a771b527e9b0800000000000000
+      internalID: -5051027012925740018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_18
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5613133b034ea9f80800000000000000
+      internalID: -8098910082056507035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. Soledad ataque_19
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31139dc4afdf0b720800000000000000
+      internalID: 2860065014853218579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3. Soledad ataque_0: 4873205865126640698
+      3. Soledad ataque_1: -6030778609380767004
+      3. Soledad ataque_10: 1680602827821525270
+      3. Soledad ataque_11: -7436747885991227209
+      3. Soledad ataque_12: -6693746394358480262
+      3. Soledad ataque_13: 5647198347776138556
+      3. Soledad ataque_14: -6627405661419825992
+      3. Soledad ataque_15: -5150910220520250610
+      3. Soledad ataque_16: -8372574387790556644
+      3. Soledad ataque_17: -5051027012925740018
+      3. Soledad ataque_18: -8098910082056507035
+      3. Soledad ataque_19: 2860065014853218579
+      3. Soledad ataque_2: -3028487009265239456
+      3. Soledad ataque_3: -8460544598392368386
+      3. Soledad ataque_4: 3367351076933964883
+      3. Soledad ataque_5: 1870757694025524391
+      3. Soledad ataque_6: -8210628057911112106
+      3. Soledad ataque_7: -4500030706512965694
+      3. Soledad ataque_8: 8464323834527562689
+      3. Soledad ataque_9: -3115726113567143267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

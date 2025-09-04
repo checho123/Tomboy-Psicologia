@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 8fbd74fc86dd81949a87383b9cc1b431
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2165847859871694417
+    second: 2.Ansiedad_0
+  - first:
+      213: 901730416619694671
+    second: 2.Ansiedad_1
+  - first:
+      213: 730108080386248047
+    second: 2.Ansiedad_2
+  - first:
+      213: -6811252475395605091
+    second: 2.Ansiedad_3
+  - first:
+      213: 3734361274935699723
+    second: 2.Ansiedad_4
+  - first:
+      213: 6969789313655439636
+    second: 2.Ansiedad_5
+  - first:
+      213: 6242706723836665611
+    second: 2.Ansiedad_6
+  - first:
+      213: 4691863548084275094
+    second: 2.Ansiedad_7
+  - first:
+      213: 8058472915372276808
+    second: 2.Ansiedad_8
+  - first:
+      213: -2197739600218728277
+    second: 2.Ansiedad_9
+  - first:
+      213: -6042315245453583031
+    second: 2.Ansiedad_10
+  - first:
+      213: -5006575510325158992
+    second: 2.Ansiedad_11
+  - first:
+      213: 2634860777358804636
+    second: 2.Ansiedad_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2.Ansiedad_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 76
+        width: 87
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e31354723ae0e10800000000000000
+      internalID: 2165847859871694417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 35
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a28cd4907938c00800000000000000
+      internalID: 901730416619694671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 52
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d801b4e6dd12a00800000000000000
+      internalID: 730108080386248047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 77
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d7b8016f19971a0800000000000000
+      internalID: -6811252475395605091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 10
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0964874bcd13d330800000000000000
+      internalID: 3734361274935699723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4110fb7047aa9b060800000000000000
+      internalID: 6969789313655439636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 78
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f1a37a0bc82a650800000000000000
+      internalID: 6242706723836665611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697ca26d909dc1140800000000000000
+      internalID: 4691863548084275094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cfed0cb6275df60800000000000000
+      internalID: 8058472915372276808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 10
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8572c4a7f0081e0800000000000000
+      internalID: -2197739600218728277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ddfcd3c42652ca0800000000000000
+      internalID: -6042315245453583031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb16ed6912158ab0800000000000000
+      internalID: -5006575510325158992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Ansiedad_12
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 9
+        width: 88
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c41bbae7e09420800000000000000
+      internalID: 2634860777358804636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2.Ansiedad_0: 2165847859871694417
+      2.Ansiedad_1: 901730416619694671
+      2.Ansiedad_10: -6042315245453583031
+      2.Ansiedad_11: -5006575510325158992
+      2.Ansiedad_12: 2634860777358804636
+      2.Ansiedad_2: 730108080386248047
+      2.Ansiedad_3: -6811252475395605091
+      2.Ansiedad_4: 3734361274935699723
+      2.Ansiedad_5: 6969789313655439636
+      2.Ansiedad_6: 6242706723836665611
+      2.Ansiedad_7: 4691863548084275094
+      2.Ansiedad_8: 8058472915372276808
+      2.Ansiedad_9: -2197739600218728277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

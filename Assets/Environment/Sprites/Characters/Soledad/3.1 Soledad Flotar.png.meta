@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: a8daad8d2992b3f4ea8afae44aa993ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3811355080439288634
+    second: 3.1 Soledad Flotar_0
+  - first:
+      213: 4044911773138346831
+    second: 3.1 Soledad Flotar_1
+  - first:
+      213: -7405318763008805153
+    second: 3.1 Soledad Flotar_2
+  - first:
+      213: 432953746406047018
+    second: 3.1 Soledad Flotar_3
+  - first:
+      213: -4961754946456224748
+    second: 3.1 Soledad Flotar_4
+  - first:
+      213: 1711802998758592183
+    second: 3.1 Soledad Flotar_5
+  - first:
+      213: 5118137574057058933
+    second: 3.1 Soledad Flotar_6
+  - first:
+      213: -5447141478055582807
+    second: 3.1 Soledad Flotar_7
+  - first:
+      213: -4037848679417425113
+    second: 3.1 Soledad Flotar_8
+  - first:
+      213: 6031246193744849534
+    second: 3.1 Soledad Flotar_9
+  - first:
+      213: -1030284207528206297
+    second: 3.1 Soledad Flotar_10
+  - first:
+      213: 8689409964816590687
+    second: 3.1 Soledad Flotar_11
+  - first:
+      213: 7449447088876010201
+    second: 3.1 Soledad Flotar_12
+  - first:
+      213: 923216179311946965
+    second: 3.1 Soledad Flotar_13
+  - first:
+      213: 213842609076138878
+    second: 3.1 Soledad Flotar_14
+  - first:
+      213: 8210790722697751185
+    second: 3.1 Soledad Flotar_15
+  - first:
+      213: 7785073817643943553
+    second: 3.1 Soledad Flotar_16
+  - first:
+      213: 1801481269003458283
+    second: 3.1 Soledad Flotar_17
+  - first:
+      213: 8854454429137640660
+    second: 3.1 Soledad Flotar_18
+  - first:
+      213: -1440272789091388277
+    second: 3.1 Soledad Flotar_19
+  - first:
+      213: 93803900918858533
+    second: 3.1 Soledad Flotar_20
+  - first:
+      213: -3892984505261066819
+    second: 3.1 Soledad Flotar_21
+  - first:
+      213: 3345930733133595300
+    second: 3.1 Soledad Flotar_22
+  - first:
+      213: -8595725828391551557
+    second: 3.1 Soledad Flotar_23
+  - first:
+      213: -465947447257142538
+    second: 3.1 Soledad Flotar_24
+  - first:
+      213: -7644282732119112043
+    second: 3.1 Soledad Flotar_25
+  - first:
+      213: -8868150363585831780
+    second: 3.1 Soledad Flotar_26
+  - first:
+      213: -812141443864441929
+    second: 3.1 Soledad Flotar_27
+  - first:
+      213: 5136639207956452833
+    second: 3.1 Soledad Flotar_28
+  - first:
+      213: 3280967789390512456
+    second: 3.1 Soledad Flotar_29
+  - first:
+      213: -9175425179571225145
+    second: 3.1 Soledad Flotar_30
+  - first:
+      213: 7577962099784651671
+    second: 3.1 Soledad Flotar_31
+  - first:
+      213: -1913112176104534734
+    second: 3.1 Soledad Flotar_32
+  - first:
+      213: -6819214792907352670
+    second: 3.1 Soledad Flotar_33
+  - first:
+      213: 5927269445077898606
+    second: 3.1 Soledad Flotar_34
+  - first:
+      213: 4389188789818199237
+    second: 3.1 Soledad Flotar_35
+  - first:
+      213: -1168091132747367450
+    second: 3.1 Soledad Flotar_36
+  - first:
+      213: 3581806377564907865
+    second: 3.1 Soledad Flotar_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 84
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33d6729047a4e430800000000000000
+      internalID: 3811355080439288634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 22
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e4b9a3d9622830800000000000000
+      internalID: 4044911773138346831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 19
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd63352f1d50b3990800000000000000
+      internalID: -7405318763008805153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 78
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2df4b27329220600800000000000000
+      internalID: 432953746406047018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 22
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c70f92a2e442bb0800000000000000
+      internalID: -4961754946456224748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 27
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be447202cb81c710800000000000000
+      internalID: 1711802998758592183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_6
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 39
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572204da107470740800000000000000
+      internalID: 5118137574057058933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a363379fadd764b0800000000000000
+      internalID: -5447141478055582807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_8
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 34
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7235b8ef40ea6f7c0800000000000000
+      internalID: -4037848679417425113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_9
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 32
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aa613557a43b350800000000000000
+      internalID: 6031246193744849534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_10
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 35
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7202690d8f1b3b1f0800000000000000
+      internalID: -1030284207528206297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57e1a4135cf69870800000000000000
+      internalID: 8689409964816590687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_12
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 79
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab58198a0c16760800000000000000
+      internalID: 7449447088876010201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_13
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 27
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc28c2493cefcc00800000000000000
+      internalID: 923216179311946965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_14
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 11
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7373df48b8b7f200800000000000000
+      internalID: 213842609076138878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_15
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 19
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ae87fd8a692f170800000000000000
+      internalID: 8210790722697751185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_16
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 78
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1868cdad3632a0c60800000000000000
+      internalID: 7785073817643943553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_17
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 18
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be698746ba5200910800000000000000
+      internalID: 1801481269003458283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_18
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc12a0f36751ea70800000000000000
+      internalID: 8854454429137640660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_19
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 47
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84fb8a778f130ce0800000000000000
+      internalID: -1440272789091388277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_20
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 28
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52380d0a6224d4100800000000000000
+      internalID: 93803900918858533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db570d7e73759f9c0800000000000000
+      internalID: -3892984505261066819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_22
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 28
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a28d7736422f6e20800000000000000
+      internalID: 3345930733133595300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_23
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 31
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd3214b6e8d5b880800000000000000
+      internalID: -8595725828391551557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faec32f34f9889f0800000000000000
+      internalID: -465947447257142538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 81
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59643653b5d0ae590800000000000000
+      internalID: -7644282732119112043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c17b3da300ee480800000000000000
+      internalID: -8868150363585831780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_27
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb4613e8a1bab4f0800000000000000
+      internalID: -812141443864441929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_28
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 7
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e596910522094740800000000000000
+      internalID: 5136639207956452833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_29
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841ce1632d6588d20800000000000000
+      internalID: 3280967789390512456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_30
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 70
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd7b74a9675aa080800000000000000
+      internalID: -9175425179571225145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793990741645a2960800000000000000
+      internalID: 7577962099784651671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_32
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d80d7ac924375e0800000000000000
+      internalID: -1913112176104534734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_33
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a51bad86484d51a0800000000000000
+      internalID: -6819214792907352670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_34
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6515e10824e14250800000000000000
+      internalID: 5927269445077898606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_35
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc8d3d03f789ec30800000000000000
+      internalID: 4389188789818199237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_36
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 0
+        width: 81
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb3f47bd4b1acfe0800000000000000
+      internalID: -1168091132747367450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3.1 Soledad Flotar_37
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 0
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9592cf45ce125b130800000000000000
+      internalID: 3581806377564907865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3.1 Soledad Flotar_0: 3811355080439288634
+      3.1 Soledad Flotar_1: 4044911773138346831
+      3.1 Soledad Flotar_10: -1030284207528206297
+      3.1 Soledad Flotar_11: 8689409964816590687
+      3.1 Soledad Flotar_12: 7449447088876010201
+      3.1 Soledad Flotar_13: 923216179311946965
+      3.1 Soledad Flotar_14: 213842609076138878
+      3.1 Soledad Flotar_15: 8210790722697751185
+      3.1 Soledad Flotar_16: 7785073817643943553
+      3.1 Soledad Flotar_17: 1801481269003458283
+      3.1 Soledad Flotar_18: 8854454429137640660
+      3.1 Soledad Flotar_19: -1440272789091388277
+      3.1 Soledad Flotar_2: -7405318763008805153
+      3.1 Soledad Flotar_20: 93803900918858533
+      3.1 Soledad Flotar_21: -3892984505261066819
+      3.1 Soledad Flotar_22: 3345930733133595300
+      3.1 Soledad Flotar_23: -8595725828391551557
+      3.1 Soledad Flotar_24: -465947447257142538
+      3.1 Soledad Flotar_25: -7644282732119112043
+      3.1 Soledad Flotar_26: -8868150363585831780
+      3.1 Soledad Flotar_27: -812141443864441929
+      3.1 Soledad Flotar_28: 5136639207956452833
+      3.1 Soledad Flotar_29: 3280967789390512456
+      3.1 Soledad Flotar_3: 432953746406047018
+      3.1 Soledad Flotar_30: -9175425179571225145
+      3.1 Soledad Flotar_31: 7577962099784651671
+      3.1 Soledad Flotar_32: -1913112176104534734
+      3.1 Soledad Flotar_33: -6819214792907352670
+      3.1 Soledad Flotar_34: 5927269445077898606
+      3.1 Soledad Flotar_35: 4389188789818199237
+      3.1 Soledad Flotar_36: -1168091132747367450
+      3.1 Soledad Flotar_37: 3581806377564907865
+      3.1 Soledad Flotar_4: -4961754946456224748
+      3.1 Soledad Flotar_5: 1711802998758592183
+      3.1 Soledad Flotar_6: 5118137574057058933
+      3.1 Soledad Flotar_7: -5447141478055582807
+      3.1 Soledad Flotar_8: -4037848679417425113
+      3.1 Soledad Flotar_9: 6031246193744849534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
