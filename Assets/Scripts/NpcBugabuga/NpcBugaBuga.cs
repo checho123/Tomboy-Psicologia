@@ -5,19 +5,21 @@ public class NpcBugaBuga : MonoBehaviour
     [Header("Settings Player Check")]
     [SerializeField] private LayerMask playerMask;
     [SerializeField] private Transform checkPlayer;
-    [SerializeField, Range(1f, 5f)] private float radiusCheckPlayer = 1f;
+    [SerializeField, Range(0.1f, 5f)] private float radiusCheckPlayer = 1f;
+
     [SerializeField] private bool isPlayer;
-
-    private void Start()
-    {
-
-    }
+    private bool lastIsPlayer;
 
     private void FixedUpdate()
     {
-        if (checkPlayer != null)
+        if (checkPlayer == null) return;
+
+        bool now = Physics2D.OverlapCircle(checkPlayer.position, radiusCheckPlayer, playerMask);
+        if (now != lastIsPlayer)
         {
-            isPlayer = Physics2D.OverlapCircle(checkPlayer.position, radiusCheckPlayer, playerMask);
+            isPlayer = now;
+            lastIsPlayer = now;
+            OnPlayerData();
         }
     }
 
@@ -25,14 +27,16 @@ public class NpcBugaBuga : MonoBehaviour
     {
         if (isPlayer)
         {
-            Debug.Log("Entro el player");
+            Debug.Log("Entró el player");
+            return;
         }
+
+
     }
 
     private void OnDrawGizmosSelected()
     {
         if (checkPlayer == null) return;
-
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(checkPlayer.position, radiusCheckPlayer);
     }
