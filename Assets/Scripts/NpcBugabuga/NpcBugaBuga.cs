@@ -21,6 +21,14 @@ public class NpcBugaBuga : MonoBehaviour
         }
     }
 
+    private void OnPlayerData()
+    {
+        if (isPlayer)
+        {
+            Debug.Log("Entro el player");
+        }
+    }
+
     private void OnDrawGizmosSelected()
     {
         if (checkPlayer == null) return;
