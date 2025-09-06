@@ -2,28 +2,30 @@ using UnityEngine;
 
 public class NpcBugaBuga : MonoBehaviour
 {
-    [SerializeField] private LayerMask playerMask; // Asigna "Player" en el Inspector
+    [Header("Settings Player Check")]
+    [SerializeField] private LayerMask playerMask;
+    [SerializeField] private Transform checkPlayer;
+    [SerializeField, Range(1f, 5f)] private float radiusCheckPlayer = 1f;
+    [SerializeField] private bool isPlayer;
 
-    private void Reset()
+    private void Start()
     {
-        CircleCollider2D c = GetComponent<CircleCollider2D>();
-        if (c != null) c.isTrigger = true;
+
     }
 
-    private bool IsPlayerObj(GameObject go)
+    private void FixedUpdate()
     {
-        return (playerMask.value & (1 << go.layer)) != 0;
+        if (checkPlayer != null)
+        {
+            isPlayer = Physics2D.OverlapCircle(checkPlayer.position, radiusCheckPlayer, playerMask);
+        }
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnDrawGizmosSelected()
     {
-        GameObject root = other.attachedRigidbody ? other.attachedRigidbody.gameObject
-                                                  : other.transform.root.gameObject;
+        if (checkPlayer == null) return;
 
-        if (!IsPlayerObj(root)) return; // ignora Tilemap/Ground/etc.
-
-        Debug.Log("encontrado con " + root.name);
-        // tu lógica...
-    }
-
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(checkPlayer.position, radiusCheckPlayer);
+    }
 }
