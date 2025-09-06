@@ -120,6 +120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9163654870666370659}
   - component: {fileID: 6056866882012473906}
+  - component: {fileID: 7416396680313069607}
   - component: {fileID: 2962619529437107752}
   m_Layer: 6
   m_Name: BugaBuga
@@ -172,6 +173,43 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
+--- !u!70 &7416396680313069607
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4248467472521012891}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.08535886, y: -0.25816023}
+  m_Size: {x: 0.6707177, y: 0.901737}
+  m_Direction: 0
 --- !u!114 &2962619529437107752
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -187,6 +225,9 @@ MonoBehaviour:
   playerMask:
     serializedVersion: 2
     m_Bits: 128
+  checkPlayer: {fileID: 3705627163017832647}
+  radiusCheckPlayer: 1.5
+  isPlayer: 0
 --- !u!1 &6583595930029815180
 GameObject:
   m_ObjectHideFlags: 0
