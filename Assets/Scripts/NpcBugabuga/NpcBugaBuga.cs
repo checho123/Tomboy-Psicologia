@@ -7,31 +7,30 @@ public class NpcBugaBuga : MonoBehaviour
     [SerializeField] private Transform checkPlayer;
     [SerializeField, Range(0.1f, 5f)] private float radiusCheckPlayer = 1f;
 
-    [SerializeField] private bool isPlayer;
-    private bool lastIsPlayer;
+    private GameObject popupButton;
+
+    private void Start()
+    {
+        popupButton = transform.Find("Popup-Button").gameObject;
+        popupButton.SetActive(false);
+    }
 
     private void FixedUpdate()
     {
         if (checkPlayer == null) return;
 
-        bool now = Physics2D.OverlapCircle(checkPlayer.position, radiusCheckPlayer, playerMask);
-        if (now != lastIsPlayer)
-        {
-            isPlayer = now;
-            lastIsPlayer = now;
-            OnPlayerData();
-        }
+        bool isPlayer = Physics2D.OverlapCircle(checkPlayer.position, radiusCheckPlayer, playerMask);
+        OnPlayerData(isPlayer);
     }
 
-    private void OnPlayerData()
+    private void OnPlayerData(bool playerTouch)
     {
-        if (isPlayer)
+        popupButton.SetActive(playerTouch);
+
+        if (Input.GetKeyDown(KeyCode.F) && playerTouch)
         {
-            Debug.Log("Entró el player");
-            return;
+            Debug.Log("Abrir panel de la UI para hablar");
         }
-
-
     }
 
     private void OnDrawGizmosSelected()
