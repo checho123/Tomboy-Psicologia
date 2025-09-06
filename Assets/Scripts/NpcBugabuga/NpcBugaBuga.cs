@@ -8,6 +8,7 @@ public class NpcBugaBuga : MonoBehaviour
     [SerializeField, Range(0.1f, 5f)] private float radiusCheckPlayer = 1f;
 
     private GameObject popupButton;
+    private bool isPlayerNearby;
 
     private void Start()
     {
@@ -15,22 +16,22 @@ public class NpcBugaBuga : MonoBehaviour
         popupButton.SetActive(false);
     }
 
-    private void FixedUpdate()
+    private void Update()
     {
         if (checkPlayer == null) return;
 
-        bool isPlayer = Physics2D.OverlapCircle(checkPlayer.position, radiusCheckPlayer, playerMask);
-        OnPlayerData(isPlayer);
-    }
 
-    private void OnPlayerData(bool playerTouch)
-    {
-        popupButton.SetActive(playerTouch);
-
-        if (Input.GetKeyDown(KeyCode.F) && playerTouch)
+        if (isPlayerNearby && Input.GetKeyDown(KeyCode.F))
         {
             Debug.Log("Abrir panel de la UI para hablar");
+            //TODO:Abrir panel UI para interactuar
         }
+    }
+
+    private void FixedUpdate()
+    {
+        isPlayerNearby = Physics2D.OverlapCircle(checkPlayer.position, radiusCheckPlayer, playerMask);
+        popupButton.SetActive(isPlayerNearby);
     }
 
     private void OnDrawGizmosSelected()
