@@ -90,7 +90,7 @@ public class PlayerController : MonoBehaviour
                 }
             }
 
-            _jumpPressed = false; // Consumir el intento de salto
+            _jumpPressed = false;
         }
 
         AnimationPlayer();
