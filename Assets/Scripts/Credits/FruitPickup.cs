@@ -1,6 +1,7 @@
 using UnityEngine;
 
-public class FruitPickup
+public class FruitPickup : MonoBehaviour
 {
-   
+    [Header("Fruit Type")]
+    [SerializeField] private FruitType type;
 }
