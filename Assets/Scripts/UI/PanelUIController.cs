@@ -12,15 +12,30 @@ public class PanelUIController : SingletonManager<PanelUIController>
     [SerializeField] private TMP_Text creditsText;
     private int creditsCount = 0;
 
+    [Header("Panel Dialogue")]
+    [SerializeField] private GameObject panelDialogue;
+    public bool openPanelDialogue;
+
+    private DialogueManager manager;
+
     private void Start()
     {
-        creditsCount = GameManager.Instance.Credits;
         CreditsModify();
+        manager = transform.Find("Panel-Dialogue").GetComponent<DialogueManager>();
     }
 
     public void CreditsModify()
     {
+        creditsCount = GameManager.Instance.Credits;
         creditsText.text = $"Creditos: {creditsCount}";
+    }
+
+    public void OpenDialogue(bool active, int index)
+    {
+        openPanelDialogue = active;
+        panelDialogue.SetActive(openPanelDialogue);
+
+        manager.StartDialogueById(index);
     }
 
 }
