@@ -21,7 +21,7 @@ public class PanelUIController : SingletonManager<PanelUIController>
     private void Start()
     {
         CreditsModify();
-        manager = transform.Find("Panel-Dialogue").GetComponent<DialogueManager>();
+        manager = panelDialogue.GetComponent<DialogueManager>();
     }
 
     public void CreditsModify()
