@@ -1,0 +1,7 @@
+{
+    "Url_Api": {
+        "Productions": "",
+        "Local": "http://localhost:8100/",
+        "Development": "http://167.172.198.16/"
+    }
+}

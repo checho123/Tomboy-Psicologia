@@ -1,0 +1,47 @@
+{
+  "Emotional": {
+    "StateEmotional": 0,
+    "Speaker": [
+      {
+        "id": 0,
+        "Text": "Hola, soy Buga Buga. Estoy aquí para acompañarte en esta aventura. Antes de continuar, quiero saber: ¿cómo te sientes hoy?"
+      },
+      {
+        "id": 1,
+        "Text": "Hola, gracias por rescartarme"
+      }
+    ],
+    "Choices": [
+      {
+        "Caption": "Feliz",
+        "StateEmotional": 1,
+        "Context": "Estado emocional inicial positivo; el jugador está listo para disfrutar la experiencia."
+      },
+      {
+        "Caption": "Triste",
+        "StateEmotional": 2,
+        "Context": "El jugador inicia con tristeza; conviene priorizar validación y un primer paso sencillo."
+      },
+      {
+        "Caption": "Ansioso",
+        "StateEmotional": 3,
+        "Context": "El jugador se siente nervioso; útil proponer respiración breve o grounding antes de avanzar."
+      },
+      {
+        "Caption": "Enojado",
+        "StateEmotional": 4,
+        "Context": "El jugador expresa enojo; sugerir descarga física suave y ponerle nombre a lo que siente."
+      },
+      {
+        "Caption": "Cansado",
+        "StateEmotional": 5,
+        "Context": "El jugador llega con fatiga; priorizar autocuidado corto (hidratarse, estirar, bajar ritmo)."
+      },
+      {
+        "Caption": "Estresado",
+        "StateEmotional": 6,
+        "Context": "El jugador reporta estrés; enfocarse en pasos pequeños y una sola acción inmediata."
+      }
+    ]
+  }
+}

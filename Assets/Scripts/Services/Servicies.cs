@@ -1,3 +1,4 @@
+using Newtonsoft.Json;
 using System;
 using System.Collections;
 using UnityEngine;
@@ -75,7 +76,43 @@ public class Servicies : MonoBehaviour
         }
     }
     #endregion
+
     #region Setting JSON
     
+    /// <summary>
+    /// Objeto -> JSON (opcional prettyPrint).
+    /// Devuelve null si ocurre un error.
+    /// </summary>
+    public static string SerializeToJson<T>(T obj, bool prettyPrint = false)
+    {
+        try
+        {
+            Formatting formatting = prettyPrint ? Formatting.Indented : Formatting.None;
+            return JsonConvert.SerializeObject(obj, formatting);
+        }
+        catch (Exception ex)
+        {
+            Debug.LogError($"[SerializeToJson] {ex.Message}");
+            return null;
+        }
+    }
+
+    /// <summary>
+    /// JSON -> Objeto tipado T.
+    /// Devuelve default(T) si ocurre un error.
+    /// </summary>
+    public static T DeserializeFromJson<T>(string json)
+    {
+        try
+        {
+            return JsonConvert.DeserializeObject<T>(json);
+        }
+        catch (Exception ex)
+        {
+            Debug.LogError($"[DeserializeFromJson] {ex.Message}");
+            return default(T);
+        }
+    }
+
     #endregion
 }

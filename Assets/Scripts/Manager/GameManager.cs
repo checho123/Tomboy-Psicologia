@@ -5,6 +5,9 @@ public class GameManager : SingletonManager<GameManager>
     [Header("Credist")]
     [SerializeField, Range(0, 1000)] private int credits = 300;
 
+    [Header("State Emotional")]
+    public EmotionDto emotionDto = new();
+
     public int Credits
     {
         get => credits;
