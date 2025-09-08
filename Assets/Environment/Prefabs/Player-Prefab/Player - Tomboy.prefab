@@ -115,7 +115,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 6
   flipOnMove: 1
-  jumpForce: 30
+  jumpForce: 25
   enableDoubleJump: 1
   jumpCutMultiplier: 0.5
   groundCheck: {fileID: 3135315818372833321}
@@ -321,7 +321,7 @@ MonoBehaviour:
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
-    FieldOfView: 34
+    FieldOfView: 50
     OrthographicSize: 5
     NearClipPlane: 0.3
     FarClipPlane: 1000
@@ -357,7 +357,7 @@ MonoBehaviour:
   Composition:
     ScreenPosition: {x: 0, y: 0}
     DeadZone:
-      Enabled: 1
+      Enabled: 0
       Size: {x: 0.01, y: 0.01}
     HardLimits:
       Enabled: 0
