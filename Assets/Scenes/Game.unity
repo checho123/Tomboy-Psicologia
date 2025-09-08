@@ -589,7 +589,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &617102826
 GameObject:
   m_ObjectHideFlags: 0
@@ -737,8 +736,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.3
-=======
->>>>>>> 02e50e2585f99cbdbb0c0120d2556c3ff64a0d39
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -9653,7 +9650,4 @@ SceneRoots:
   - {fileID: 842666229}
   - {fileID: 941388544}
   - {fileID: 569631842}
-<<<<<<< HEAD
   - {fileID: 617102828}
-=======
->>>>>>> 02e50e2585f99cbdbb0c0120d2556c3ff64a0d39
